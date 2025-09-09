@@ -1,0 +1,8 @@
+=== Phone Book Menu ===
+1. Search by number
+2. Search by name
+3. Add new contact
+0. Exit
+Enter your choice: 1
+Enter the number: 2222222222
+Owner: Mohammed
