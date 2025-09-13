@@ -18,7 +18,7 @@ A simple Python program that lets you:
 1. Make sure you have Python 3 installed.  
 2. Download or clone this repository.  
 3. Open a terminal in the project folder.  
-4. Run the program:
+4. Run the program :
 
 ```bash
 python phone_book.py
